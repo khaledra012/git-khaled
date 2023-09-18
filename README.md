@@ -1,3 +1,3 @@
 # git-khaled
-course git and githup
+*course git and githup*
 ## projeect notes
