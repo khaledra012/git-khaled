@@ -1,3 +1,3 @@
 # git-khaled
-*course git and githup bu khaled ramadan*
+*course git and githup by khaled ramadan*
 ## projeect notes
